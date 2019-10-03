@@ -1,0 +1,70 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 132, Failures: 7, Errors: 0, Skipped: 0, Time elapsed: 129.387 s <<< FAILURE! - in TestSuite
+isDigitalLifeAnchorPresent(com.atmecs.testScripts.ValidateAnchors)  Time elapsed: 0.135 s  <<< FAILURE!
+java.lang.AssertionError: footer is not present expected [Artificial Intelligence / Machine Learning] but found []
+	at com.atmecs.testScripts.ValidateAnchors.isDigitalLifeAnchorPresent(ValidateAnchors.java:37)
+
+isInfrastructureAnchorPresent(com.atmecs.testScripts.ValidateAnchors)  Time elapsed: 0.077 s  <<< FAILURE!
+java.lang.AssertionError: footer is not present expected [Infrastructure Management] but found []
+	at com.atmecs.testScripts.ValidateAnchors.isInfrastructureAnchorPresent(ValidateAnchors.java:44)
+
+anchorRedirection(com.atmecs.testScripts.InsightsValidation)  Time elapsed: 2.373 s  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+Element <a href="http://www.atmecs.com/blogs/"> could not be scrolled into view
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-038', ip: '55.55.52.193', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 16124, moz:profile: C:\Users\saurabh.chauhan\Ap..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 909c2369-8942-422d-be3b-8e3a0d7b29a9
+	at com.atmecs.testScripts.InsightsValidation.anchorRedirection(InsightsValidation.java:31)
+
+validateDate(com.atmecs.testScripts.InsightsValidation)  Time elapsed: 6.076 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: //time[contains(.,'March 15, 2019')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-038', ip: '55.55.52.193', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 16124, moz:profile: C:\Users\saurabh.chauhan\Ap..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 909c2369-8942-422d-be3b-8e3a0d7b29a9
+*** Element info: {Using=xpath, value=//time[contains(.,'March 15, 2019')]}
+	at com.atmecs.testScripts.InsightsValidation.validateDate(InsightsValidation.java:42)
+
+validateTitle(com.atmecs.testScripts.InsightsValidation)  Time elapsed: 6.043 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: //h1[contains(@class,'page-title')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-038', ip: '55.55.52.193', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 16124, moz:profile: C:\Users\saurabh.chauhan\Ap..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 909c2369-8942-422d-be3b-8e3a0d7b29a9
+*** Element info: {Using=xpath, value=//h1[contains(@class,'page-title')]}
+	at com.atmecs.testScripts.InsightsValidation.validateTitle(InsightsValidation.java:52)
+
+validateBreadCrumb(com.atmecs.testScripts.InsightsValidation)  Time elapsed: 10.139 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: (//span[@class='breadcrumb'])[2]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-038', ip: '55.55.52.193', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 16124, moz:profile: C:\Users\saurabh.chauhan\Ap..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 909c2369-8942-422d-be3b-8e3a0d7b29a9
+*** Element info: {Using=xpath, value=(//span[@class='breadcrumb'])[2]}
+	at com.atmecs.testScripts.InsightsValidation.validateBreadCrumb(InsightsValidation.java:62)
+
+validateErrorMsg(com.atmecs.testScripts.InsightsValidation)  Time elapsed: 6.074 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: (//div[@id='respond']//form//p[@class='form-submit']//input)[1]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-038', ip: '55.55.52.193', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 16124, moz:profile: C:\Users\saurabh.chauhan\Ap..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 909c2369-8942-422d-be3b-8e3a0d7b29a9
+*** Element info: {Using=xpath, value=(//div[@id='respond']//form//p[@class='form-submit']//input)[1]}
+	at com.atmecs.testScripts.InsightsValidation.validateErrorMsg(InsightsValidation.java:70)
+

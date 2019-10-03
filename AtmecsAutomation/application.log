@@ -1,0 +1,1145 @@
+2019-09-30 16:19:28,886  INFO [main] HomePagetestscripts:31 - Starting Redirection validation
+2019-09-30 16:19:28,933  INFO [main] HomePagetestscripts:33 - Redirection is on the correct page
+2019-09-30 16:19:28,933  INFO [main] HomePagetestscripts:34 - Starting the homepage testing
+2019-09-30 16:19:34,234  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:34,526  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:34,793  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:35,077  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:35,414  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:35,753  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:36,041  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:36,333  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:36,625  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:36,953  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:37,253  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:37,561  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:37,855  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:38,211  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:38,211  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:19:42,569  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:42,989  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:43,381  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:43,712  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:44,020  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:44,448  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:44,837  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:45,133  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:45,401  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:45,684  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:46,028  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:46,324  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:46,600  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:46,872  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:46,872  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:19:50,365  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:50,709  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:51,001  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:51,307  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:51,701  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:52,073  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:52,418  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:52,719  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:53,007  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:53,331  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:53,635  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:53,927  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:54,231  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:54,543  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:54,543  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:19:58,124  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:19:58,420  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:19:58,720  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:19:59,053  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:19:59,381  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:19:59,733  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:20:00,048  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:20:00,360  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:20:00,712  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:20:01,021  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:20:01,301  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:20:01,581  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:20:01,929  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:20:02,281  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:20:02,281  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:20:03,993  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:04,233  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:04,469  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:04,776  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:05,087  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:05,331  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:05,587  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:05,839  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:06,069  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:06,393  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:06,697  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:06,933  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:07,190  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:07,429  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:07,429  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:20:11,636  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:11,984  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:12,332  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:12,633  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:12,985  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:13,257  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:13,713  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:14,067  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:14,347  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:14,626  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:14,942  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:15,294  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:15,590  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:15,894  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:15,894  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:20:17,842  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:18,097  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:18,337  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:18,601  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:18,835  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:19,095  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:19,415  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:19,667  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:19,909  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:20,149  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:20,409  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:20,748  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:21,025  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:21,277  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:21,277  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:20:25,214  INFO [main] ValidateAnchors:29 - Starting Anchors tag validation
+2019-09-30 16:20:32,284  INFO [main] ValidateAnchors:54 - Starting Redirection validation
+2019-09-30 16:20:58,551 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-30 16:20:58,555 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-30 16:20:58,559 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-30 16:20:58,559 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-30 16:20:58,559 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-30 16:20:59,275 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-30 16:20:59,283 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-30 16:20:59,283 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-30 16:20:59,287 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-30 16:20:59,287 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-30 16:49:26,243  INFO [main] HomePagetestscripts:31 - Starting Redirection validation
+2019-09-30 16:49:26,342  INFO [main] HomePagetestscripts:33 - Redirection is on the correct page
+2019-09-30 16:49:26,342  INFO [main] HomePagetestscripts:34 - Starting the homepage testing
+2019-09-30 16:49:34,180  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:34,352  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:34,516  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:34,696  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:34,856  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:35,004  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:35,152  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:35,304  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:35,452  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:35,644  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:35,836  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:36,028  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:36,200  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:36,376  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:36,382  INFO [main] HomePagetestscripts:43 - Validation done
+2019-09-30 16:49:38,780  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:38,928  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:39,084  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:39,264  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:39,400  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:39,544  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:39,681  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:39,857  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:40,009  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:40,169  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:40,349  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:40,500  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:40,684  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:40,835  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:40,839  INFO [main] HomePagetestscripts:76 - Validation done
+2019-09-30 16:49:42,886  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:43,042  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:43,194  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:43,342  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:43,478  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:43,606  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:43,746  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:43,881  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:44,021  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:44,197  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:44,341  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:44,473  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:44,609  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:44,745  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:44,750  INFO [main] HomePagetestscripts:97 - Validation done
+2019-09-30 16:49:47,392  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:47,604  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:47,748  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:47,892  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:48,052  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:48,192  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:48,339  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:48,491  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:48,639  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:48,791  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:48,935  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:49,063  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:49,219  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:49,371  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:49,375  INFO [main] HomePagetestscripts:117 - Validation done
+2019-09-30 16:49:49,879  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:50,019  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:50,119  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:50,239  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:50,337  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:50,437  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:50,553  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:50,669  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:50,763  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:50,856  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:50,966  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:51,059  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:51,153  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:51,278  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:51,283  INFO [main] HomePagetestscripts:138 - Validation done
+2019-09-30 16:49:54,068  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:54,224  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:54,336  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:54,452  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:54,568  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:54,692  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:54,808  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:54,924  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:55,034  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:55,150  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:55,262  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:55,378  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:55,498  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:55,622  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:55,626  INFO [main] HomePagetestscripts:159 - Validation done
+2019-09-30 16:49:56,072  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:56,175  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:56,271  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:56,351  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:56,439  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:56,523  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:56,607  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:56,691  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:56,779  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:56,859  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:56,943  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:57,023  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:57,101  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:57,185  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:49:57,189  INFO [main] HomePagetestscripts:180 - Validation done
+2019-09-30 16:50:23,431  INFO [main] ValidateAnchors:29 - Starting Anchors tag validation
+2019-09-30 16:50:29,159  INFO [main] ValidateAnchors:54 - Starting Redirection validation
+2019-09-30 16:51:19,801 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-30 16:51:19,805 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-30 16:51:19,809 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-30 16:51:19,809 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-30 16:51:19,813 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-30 16:51:20,372 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-30 16:51:20,372 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-30 16:51:20,376 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-30 16:51:20,376 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-30 16:51:20,376 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 11:32:26,369  INFO [main] HomePagetestscripts:31 - Starting Redirection validation
+2019-10-01 11:32:26,411  INFO [main] HomePagetestscripts:33 - Redirection is on the correct page
+2019-10-01 11:32:26,412  INFO [main] HomePagetestscripts:34 - Starting the homepage testing
+2019-10-01 11:32:33,577  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:33,633  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:33,684  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:33,737  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:33,787  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:33,833  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:33,881  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:33,926  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:33,985  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:34,042  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:34,095  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:34,148  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:34,196  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:34,242  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:34,245  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:32:37,110  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,174  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,233  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,293  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,352  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,408  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,464  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,516  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,562  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,610  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,667  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,709  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,758  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,809  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:37,811  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:32:40,233  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,280  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,328  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,380  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,423  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,469  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,516  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,563  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,614  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,657  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,702  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,745  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,789  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,836  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:40,838  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:32:44,034  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,099  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,157  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,209  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,259  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,308  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,367  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,427  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,476  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,525  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,571  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,614  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,656  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,694  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,695  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:32:44,899  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:44,945  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:44,990  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:45,035  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:45,077  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:45,116  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:45,157  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:45,198  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:45,234  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:45,263  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:45,289  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:45,320  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:45,351  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:45,383  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:45,384  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:32:47,923  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:47,977  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,031  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,085  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,134  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,201  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,253  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,307  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,358  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,404  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,465  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,513  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,561  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,611  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,612  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:32:48,821  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:48,868  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:48,913  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:48,955  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:48,998  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:49,040  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:49,081  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:49,118  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:49,163  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:49,205  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:49,235  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:49,261  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:49,294  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:49,325  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:32:49,326  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:33:07,618  INFO [main] ValidateAnchors:29 - Starting Anchors tag validation
+2019-10-01 11:33:13,542  INFO [main] ValidateAnchors:54 - Starting Redirection validation
+2019-10-01 11:34:11,694 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 11:34:11,697 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 11:34:11,700 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 11:34:11,703 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 11:34:11,705 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 11:34:12,048 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 11:34:12,049 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 11:34:12,050 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 11:34:12,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 11:34:12,060 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 11:49:06,848  INFO [main] HomePagetestscripts:31 - Starting Redirection validation
+2019-10-01 11:49:06,909  INFO [main] HomePagetestscripts:33 - Redirection is on the correct page
+2019-10-01 11:49:06,909  INFO [main] HomePagetestscripts:34 - Starting the homepage testing
+2019-10-01 11:49:13,418  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:13,548  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:13,688  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:13,810  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:13,953  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:14,087  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:14,222  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:14,355  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:14,480  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:14,613  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:14,745  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:14,869  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:14,998  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:15,124  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:15,128  INFO [main] HomePagetestscripts:43 - Validation done
+2019-10-01 11:49:17,774  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:17,915  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:18,043  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:18,194  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:18,314  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:18,448  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:18,579  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:18,708  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:18,831  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:18,967  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:19,093  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:19,210  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:19,336  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:19,463  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:19,466  INFO [main] HomePagetestscripts:76 - Validation done
+2019-10-01 11:49:22,817  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:22,931  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:23,044  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:23,166  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:23,278  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:23,384  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:23,491  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:23,597  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:23,711  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:23,821  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:23,930  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:24,037  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:24,139  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:24,255  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:24,258  INFO [main] HomePagetestscripts:97 - Validation done
+2019-10-01 11:49:27,496  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:27,633  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:27,734  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:27,873  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:27,976  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:28,089  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:28,214  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:28,327  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:28,435  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:28,539  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:28,661  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:28,764  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:28,871  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:28,969  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:28,971  INFO [main] HomePagetestscripts:117 - Validation done
+2019-10-01 11:49:29,280  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:29,362  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:29,435  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:29,504  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:29,575  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:29,658  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:29,751  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:29,837  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:29,925  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:30,005  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:30,078  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:30,154  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:30,229  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:30,320  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:30,322  INFO [main] HomePagetestscripts:138 - Validation done
+2019-10-01 11:49:33,109  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:33,214  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:33,322  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:33,433  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:33,537  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:33,647  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:33,752  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:33,854  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:33,965  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:34,097  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:34,219  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:34,332  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:34,432  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:34,544  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:34,547  INFO [main] HomePagetestscripts:159 - Validation done
+2019-10-01 11:49:34,946  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:35,033  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:35,120  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:35,197  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:35,270  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:35,352  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:35,450  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:35,543  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:35,644  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:35,748  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:35,852  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:35,932  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:36,056  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:36,147  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:36,149  INFO [main] HomePagetestscripts:180 - Validation done
+2019-10-01 11:49:55,174  INFO [main] ValidateAnchors:29 - Starting Anchors tag validation
+2019-10-01 11:50:07,332  INFO [main] ValidateAnchors:54 - Starting Redirection validation
+2019-10-01 11:50:53,247 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 11:50:53,249 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 11:50:53,252 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 11:50:53,254 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 11:50:53,254 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 11:50:53,694 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 11:50:53,695 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 11:50:53,696 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 11:50:53,697 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 11:50:53,698 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 12:11:35,369  INFO [main] HomePagetestscripts:31 - Starting Redirection validation
+2019-10-01 12:11:41,173  INFO [main] ValidateAnchors:29 - Starting Anchors tag validation
+2019-10-01 12:11:49,095 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 12:11:49,098 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 12:11:49,100 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 12:11:49,104 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 12:11:49,106 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 12:11:49,730 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 12:11:49,731 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 12:11:49,732 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 12:11:49,734 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 12:11:49,734 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 17:50:24,277  INFO [TestNG-tests-1] HomePagetestscripts:31 - Starting Redirection validation
+2019-10-01 17:50:24,397  INFO [TestNG-tests-1] HomePagetestscripts:33 - Redirection is on the correct page
+2019-10-01 17:50:24,399  INFO [TestNG-tests-1] HomePagetestscripts:34 - Starting the homepage testing
+2019-10-01 17:50:33,469  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:33,574  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:33,675  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:33,774  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:33,864  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:33,953  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:34,055  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:34,153  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:34,244  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:34,359  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:34,438  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:34,513  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:34,591  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:34,665  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:34,669  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:50:37,258  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:37,338  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:37,420  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:37,496  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:37,568  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:37,632  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:37,695  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:37,794  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:37,864  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:37,937  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:38,002  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:38,081  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:38,167  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:38,251  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:38,255  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:50:40,069  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:40,152  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:40,306  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:40,375  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:40,465  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:40,547  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:40,651  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:40,713  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:40,773  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:40,834  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:40,904  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:40,975  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:41,053  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:41,121  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:41,123  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:50:44,659  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:44,743  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:44,809  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:44,886  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:44,963  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:45,040  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:45,135  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:45,231  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:45,290  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:45,356  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:45,429  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:45,506  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:45,574  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:45,633  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:45,635  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:50:46,025  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,097  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,161  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,212  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,258  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,304  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,351  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,405  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,458  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,504  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,565  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,604  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,645  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,694  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:46,696  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:50:50,473  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:50,533  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:50,585  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:50,636  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:50,686  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:50,737  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:50,796  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:50,846  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:50,894  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:50,945  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:50,997  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:51,054  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:51,121  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:51,184  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:51,186  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:50:51,483  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:51,556  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:51,641  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:51,699  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:51,740  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:51,779  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:51,816  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:51,859  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:51,905  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:51,960  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:52,008  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:52,062  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:52,116  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:52,193  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:50:52,195  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-01 17:52:46,258  INFO [TestNG-tests-1] HomePagetestscripts:31 - Starting Redirection validation
+2019-10-01 17:52:46,407  INFO [TestNG-tests-1] HomePagetestscripts:33 - Redirection is on the correct page
+2019-10-01 17:52:46,408  INFO [TestNG-tests-1] HomePagetestscripts:34 - Starting the homepage testing
+2019-10-01 17:53:07,817  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:07,869  INFO [TestNG-tests-2] ValidateAnchors:29 - Starting Anchors tag validation
+2019-10-01 17:53:08,062  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:08,111  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:08,167  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:08,230  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:08,292  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:08,350  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:08,470  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:08,777  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:09,031  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:09,104  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:09,172  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:09,231  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:09,288  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:09,292  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-01 17:53:14,539  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:14,613  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:14,719  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:14,771  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:14,826  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:14,867  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:14,922  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:14,963  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:15,006  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:15,137  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:15,214  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:15,270  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:15,325  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:15,379  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:15,382  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-01 17:53:18,400  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:18,483  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:18,596  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:18,681  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:18,733  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:18,804  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:18,882  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:18,949  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:19,016  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:19,138  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:19,190  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:19,245  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:19,395  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:19,453  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:19,455  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-01 17:53:22,921  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:22,987  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:23,091  INFO [TestNG-tests-2] ValidateAnchors:54 - Starting Redirection validation
+2019-10-01 17:53:23,106  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:23,162  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:23,213  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:23,265  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:23,366  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:23,418  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:23,472  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:23,559  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:23,624  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:23,715  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:23,776  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:23,828  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:23,831  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-01 17:53:24,470  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,508  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,548  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,582  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,619  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,645  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,677  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,706  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,738  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,779  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,818  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,856  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,896  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,935  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:24,938  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-01 17:53:29,952  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:53:30,011  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:53:30,108  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:53:30,251  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:53:30,308  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:53:30,430  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:53:30,626  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:53:30,742  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:53:30,860  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:53:30,945  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:53:31,078  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-01 17:53:40,276 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 17:53:40,278 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 17:53:40,281 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 17:53:40,282 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 17:53:40,282 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-01 17:53:40,700 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-01 17:53:40,701 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-01 17:53:40,703 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-01 17:53:40,704 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-01 17:53:40,704 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 11:14:02,758  INFO [TestNG-tests-1] HomePagetestscripts:31 - Starting Redirection validation
+2019-10-03 11:14:02,964  INFO [TestNG-tests-1] HomePagetestscripts:33 - Redirection is on the correct page
+2019-10-03 11:14:02,964  INFO [TestNG-tests-1] HomePagetestscripts:34 - Starting the homepage testing
+2019-10-03 11:14:10,167  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:10,270  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:10,463  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:10,523  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:10,619  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:10,705  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:10,768  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:10,840  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:10,922  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:10,998  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:11,073  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:11,146  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:11,205  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:11,293  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:11,296  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:14:14,637  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:14,729  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:14,857  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:14,917  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:14,990  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:15,050  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:15,105  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:15,175  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:15,263  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:15,449  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:15,639  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:15,698  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:15,774  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:15,834  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:15,836  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:14:18,847  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:18,931  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:19,014  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:19,095  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:19,260  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:19,334  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:19,407  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:19,482  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:19,557  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:19,633  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:19,715  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:19,772  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:19,835  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:19,904  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:19,907  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:14:25,687  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:25,782  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:25,883  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:25,981  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:26,076  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:26,289  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:26,354  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:26,413  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:26,476  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:26,547  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:26,628  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:26,712  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:26,786  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:26,859  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:26,861  INFO [TestNG-tests-1] HomePagetestscripts:117 - Validation done
+2019-10-03 11:14:27,188  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,269  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,334  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,385  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,449  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,503  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,573  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,610  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,650  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,684  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,721  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,758  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,795  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,841  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:27,843  INFO [TestNG-tests-1] HomePagetestscripts:138 - Validation done
+2019-10-03 11:14:32,414  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:32,510  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:32,596  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:32,682  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:32,783  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:32,871  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:32,941  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:33,017  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:33,097  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:33,159  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:33,217  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:33,419  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:33,507  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:33,568  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:33,570  INFO [TestNG-tests-1] HomePagetestscripts:159 - Validation done
+2019-10-03 11:14:33,874  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:33,966  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:34,055  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:34,120  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:34,174  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:34,226  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:34,278  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:34,324  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:34,374  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:34,416  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:34,503  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:34,556  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:34,615  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:34,664  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:14:34,666  INFO [TestNG-tests-1] HomePagetestscripts:180 - Validation done
+2019-10-03 11:28:09,282  INFO [main] ValidateAnchors:29 - Starting Anchors tag validation
+2019-10-03 11:28:21,098  INFO [main] ValidateAnchors:54 - Starting Redirection validation
+2019-10-03 11:28:29,478 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 11:28:29,480 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 11:28:29,486 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 11:28:29,489 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 11:28:29,490 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 11:28:29,852 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 11:28:29,853 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 11:28:29,854 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 11:28:29,855 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 11:28:29,855 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 11:28:50,312  INFO [main] ValidateAnchors:29 - Starting Anchors tag validation
+2019-10-03 11:28:57,922  INFO [main] ValidateAnchors:54 - Starting Redirection validation
+2019-10-03 11:29:04,988 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 11:29:04,990 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 11:29:04,993 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 11:29:04,995 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 11:29:04,996 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 11:29:05,273 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 11:29:05,274 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 11:29:05,275 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 11:29:05,276 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 11:29:05,276 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 11:30:18,563  INFO [TestNG-tests-2] ValidateAnchors:29 - Starting Anchors tag validation
+2019-10-03 11:30:33,218  INFO [TestNG-tests-1] HomePagetestscripts:31 - Starting Redirection validation
+2019-10-03 11:30:33,271  INFO [TestNG-tests-1] HomePagetestscripts:33 - Redirection is on the correct page
+2019-10-03 11:30:33,272  INFO [TestNG-tests-1] HomePagetestscripts:34 - Starting the homepage testing
+2019-10-03 11:30:38,769  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:38,863  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:38,967  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:39,470  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:39,566  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:39,656  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:40,162  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:40,255  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:40,352  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:40,855  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:40,930  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:41,032  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:41,504  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:41,560  INFO [TestNG-tests-2] ValidateAnchors:54 - Starting Redirection validation
+2019-10-03 11:30:41,589  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:41,589  INFO [TestNG-tests-1] HomePagetestscripts:43 - Validation done
+2019-10-03 11:30:44,456  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:44,524  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:44,599  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:44,669  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:44,742  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:44,818  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:44,885  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:44,946  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:45,010  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:45,072  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:45,128  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:45,192  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:45,270  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:45,326  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:45,329  INFO [TestNG-tests-1] HomePagetestscripts:76 - Validation done
+2019-10-03 11:30:47,471  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:30:47,629  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:30:48,016  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:30:48,086  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:30:48,436  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:30:48,517  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:30:48,899  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:30:48,968  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:30:49,324  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:30:49,394  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:30:49,798  INFO [TestNG-tests-1] HomePagetestscripts:97 - Validation done
+2019-10-03 11:30:55,406 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 11:30:55,409 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 11:30:55,411 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 11:30:55,412 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 11:30:55,413 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 11:30:55,732 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 11:30:55,733 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 11:30:55,734 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 11:30:55,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 11:30:55,739 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 14:57:47,600  INFO [main] HomePageMoreInfotestscripts:30 - Starting Redirection validation
+2019-10-03 14:58:26,440  INFO [main] HomePageMoreInfotestscripts:42 - Starting Redirection validation
+2019-10-03 14:59:25,190  INFO [main] HomePageMoreInfotestscripts:30 - Starting Redirection validation
+2019-10-03 15:00:04,551  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:00:41,133  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:04:00,096  INFO [main] HomePageMoreInfotestscripts:30 - Starting Redirection validation
+2019-10-03 15:04:36,450 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:04:36,452 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:04:36,456 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:04:36,458 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:04:36,460 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:04:36,851 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:04:36,852 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:04:36,853 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:04:36,855 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:04:36,855 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:06:57,391  INFO [main] HomePageMoreInfotestscripts:30 - Starting Redirection validation
+2019-10-03 15:07:02,007  INFO [main] HomePageMoreInfotestscripts:33 - Redirection is on the correct page
+2019-10-03 15:07:02,008  INFO [main] HomePageMoreInfotestscripts:34 - Starting the MoreInfo buttons testing
+2019-10-03 15:07:06,138 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:07:06,140 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:07:06,143 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:07:06,145 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:07:06,146 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:07:06,518 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:07:06,519 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:07:06,520 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:07:06,521 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:07:06,521 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:09:47,992  INFO [main] HomePageMoreInfotestscripts:30 - Starting Redirection validation
+2019-10-03 15:09:53,994  INFO [main] HomePageMoreInfotestscripts:33 - Redirection is on the correct page
+2019-10-03 15:09:53,995  INFO [main] HomePageMoreInfotestscripts:34 - Starting the MoreInfo buttons testing
+2019-10-03 15:09:58,415  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:14:33,677  INFO [main] HomePageMoreInfotestscripts:30 - Starting Redirection validation
+2019-10-03 15:14:39,520  INFO [main] HomePageMoreInfotestscripts:33 - Redirection is on the correct page
+2019-10-03 15:14:39,521  INFO [main] HomePageMoreInfotestscripts:34 - Starting the MoreInfo buttons testing
+2019-10-03 15:14:44,252  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:15:21,275 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:15:21,276 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:15:21,278 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:15:21,280 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:15:21,280 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:15:21,689 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:15:21,691 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:15:21,696 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:15:21,698 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:15:21,698 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:18:06,040  INFO [main] HomePageMoreInfotestscripts:30 - Starting Redirection validation
+2019-10-03 15:18:09,963  INFO [main] HomePageMoreInfotestscripts:33 - Redirection is on the correct page
+2019-10-03 15:18:09,963  INFO [main] HomePageMoreInfotestscripts:34 - Starting the MoreInfo buttons testing
+2019-10-03 15:18:14,183  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:19:59,418  INFO [main] HomePageMoreInfotestscripts:30 - Starting Redirection validation
+2019-10-03 15:20:06,032  INFO [main] HomePageMoreInfotestscripts:33 - Redirection is on the correct page
+2019-10-03 15:20:06,033  INFO [main] HomePageMoreInfotestscripts:34 - Starting the MoreInfo buttons testing
+2019-10-03 15:20:12,168  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:20:28,693  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:20:38,250  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:20:58,899  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:21:05,696  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:21:12,637  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:21:20,562 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:21:20,565 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:21:20,568 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:21:20,570 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:21:20,570 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:21:20,871 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:21:20,873 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:21:20,875 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:21:20,875 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:21:20,876 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:25:49,572  INFO [main] HomePageMoreInfotestscripts:30 - Starting Redirection validation
+2019-10-03 15:25:53,996  INFO [main] HomePageMoreInfotestscripts:33 - Redirection is on the correct page
+2019-10-03 15:25:53,997  INFO [main] HomePageMoreInfotestscripts:34 - Starting the MoreInfo buttons testing
+2019-10-03 15:25:58,234  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:26:14,917  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:26:25,208  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:26:51,870  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:26:59,024  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:27:06,153  INFO [main] HomePageMoreInfotestscripts:44 - Starting Redirection validation
+2019-10-03 15:27:14,015 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:27:14,017 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:27:14,020 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:27:14,021 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:27:14,022 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:27:14,364 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:27:14,365 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:27:14,367 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:27:14,369 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:27:14,370 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:32:41,259  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:32:57,791  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:33:09,346  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:33:19,678  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:33:31,008  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:34:54,345  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:35:11,263  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:35:22,022  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:35:32,070  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:35:39,114  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:35:54,305  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:36:09,944 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:36:09,946 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:36:09,949 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:36:09,951 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:36:09,953 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:36:10,311 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:36:10,312 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:36:10,313 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:36:10,313 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:36:10,314 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:39:57,034  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:40:06,211  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:40:18,888  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:40:31,286  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:40:44,132  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:40:56,787  INFO [main] HomePageMoreInfotestscripts:45 - Starting Redirection validation
+2019-10-03 15:41:10,475 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:41:10,477 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:41:10,485 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:41:10,487 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:41:10,489 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:41:10,924 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:41:10,925 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:41:10,929 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:41:10,932 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:41:10,933 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:45:13,151  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:45:23,815  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:45:34,521  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:45:40,585  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:45:50,868  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:45:57,594 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:45:57,595 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:45:57,597 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:45:57,599 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:45:57,599 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:45:57,947 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:45:57,948 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:45:57,949 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:45:57,950 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:45:57,951 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:46:46,962  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:46:57,738  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:47:09,761  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:47:21,373  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:47:31,984  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:47:41,066 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:47:41,068 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:47:41,069 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:47:41,071 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:47:41,071 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:47:41,403 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:47:41,404 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:47:41,405 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:47:41,406 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:47:41,406 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:52:52,467  INFO [main] HomePageMoreInfotestscripts:31 - Starting Redirection validation
+2019-10-03 15:52:56,814  INFO [main] HomePageMoreInfotestscripts:34 - Redirection is on the correct page
+2019-10-03 15:52:56,814  INFO [main] HomePageMoreInfotestscripts:35 - Starting the MoreInfo buttons testing
+2019-10-03 15:53:01,071  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:53:10,728  INFO [main] HomePageMoreInfotestscripts:51 - page navigate Back
+2019-10-03 15:53:11,274  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:53:21,089  INFO [main] HomePageMoreInfotestscripts:51 - page navigate Back
+2019-10-03 15:53:21,601  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:53:31,433  INFO [main] HomePageMoreInfotestscripts:51 - page navigate Back
+2019-10-03 15:53:31,911  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:53:41,309  INFO [main] HomePageMoreInfotestscripts:51 - page navigate Back
+2019-10-03 15:53:41,857  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 15:53:47,828  INFO [main] HomePageMoreInfotestscripts:51 - page navigate Back
+2019-10-03 15:53:49,002 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:53:49,002 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:53:49,006 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:53:49,010 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:53:49,010 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 15:53:49,302 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 15:53:49,302 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 15:53:49,302 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 15:53:49,306 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 15:53:49,306 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:10:25,623  INFO [main] HomePageMoreInfotestscripts:32 - Starting Redirection validation
+2019-10-03 17:10:36,024  INFO [main] HomePageMoreInfotestscripts:35 - Redirection is on the correct page
+2019-10-03 17:10:36,024  INFO [main] HomePageMoreInfotestscripts:36 - Starting the MoreInfo buttons testing
+2019-10-03 17:10:41,629  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:10:50,807  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:10:57,137  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:11:03,687  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:11:09,943  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:11:19,912 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:11:19,916 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:11:19,924 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:11:19,928 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:11:19,932 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:11:20,548 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:11:20,552 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:11:20,552 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:11:20,556 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:11:20,556 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:15:33,049  INFO [main] HomePageMoreInfotestscripts:32 - Starting Redirection validation
+2019-10-03 17:15:38,079  INFO [main] HomePageMoreInfotestscripts:35 - Redirection is on the correct page
+2019-10-03 17:15:38,079  INFO [main] HomePageMoreInfotestscripts:36 - Starting the MoreInfo buttons testing
+2019-10-03 17:15:41,898  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:15:50,212  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:16:03,497  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:16:16,253  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:16:29,475  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:16:43,221 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:16:43,221 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:16:43,225 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:16:43,225 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:16:43,225 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:16:43,613 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:16:43,617 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:16:43,618 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:16:43,619 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:16:43,623 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:18:17,868  INFO [main] HomePageMoreInfotestscripts:32 - Starting Redirection validation
+2019-10-03 17:18:22,280  INFO [main] HomePageMoreInfotestscripts:35 - Redirection is on the correct page
+2019-10-03 17:18:22,280  INFO [main] HomePageMoreInfotestscripts:36 - Starting the MoreInfo buttons testing
+2019-10-03 17:18:26,990  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:18:35,482  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:18:48,364  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:19:00,958  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:19:14,215  INFO [main] HomePageMoreInfotestscripts:47 - Starting Redirection validation
+2019-10-03 17:19:27,822 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:19:27,826 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:19:27,830 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:19:27,830 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:19:27,830 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:19:28,226 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:19:28,227 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:19:28,228 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:19:28,228 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:19:28,228 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:22:24,398  INFO [main] HomePageMoreInfotestscripts:31 - Starting Redirection validation
+2019-10-03 17:22:29,516  INFO [main] HomePageMoreInfotestscripts:34 - Redirection is on the correct page
+2019-10-03 17:22:29,516  INFO [main] HomePageMoreInfotestscripts:35 - Starting the MoreInfo buttons testing
+2019-10-03 17:22:34,477  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 17:22:44,878  INFO [main] HomePageMoreInfotestscripts:51 - page navigate Back
+2019-10-03 17:22:45,411  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 17:22:56,357  INFO [main] HomePageMoreInfotestscripts:51 - page navigate Back
+2019-10-03 17:22:56,868  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 17:23:09,129  INFO [main] HomePageMoreInfotestscripts:51 - page navigate Back
+2019-10-03 17:23:09,642  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 17:23:20,301  INFO [main] HomePageMoreInfotestscripts:51 - page navigate Back
+2019-10-03 17:23:20,941  INFO [main] HomePageMoreInfotestscripts:46 - Starting Redirection validation
+2019-10-03 17:23:27,418  INFO [main] HomePageMoreInfotestscripts:51 - page navigate Back
+2019-10-03 17:23:28,651 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:23:28,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:23:28,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:23:28,663 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:23:28,663 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-03 17:23:28,979 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-03 17:23:28,979 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-03 17:23:28,979 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-03 17:23:28,979 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-03 17:23:28,983 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/saurabh.chauhan/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
